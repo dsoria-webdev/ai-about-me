@@ -1,0 +1,10 @@
+1. I used ChatGPT.
+
+2. My initial prompt was:
+Create an 'About Me' section for a portfolio website using HTML and CSS only (no JavaScript). It should include: - A profile photo on the left (use a placeholder image for now) - My name as a heading - A short bio paragraph - A list of 4 skills displayed as tags/badges - Use "lorem ipsum" instead of my information and I can enter that in later. Make it responsive - should stack vertically on mobile. Use a modern, clean design with a light color scheme. Add comments explaining the CSS.
+
+3. I used approximately around 10 or so prompts to help me with this overall project.
+
+4. I customized the design of this webpage by changing the color scheme to gold and blue, adding shadows, updating fonts, centering elements, and improving layout structure.
+
+5. One things this overall experience taught me is how AI can drastically speed up the process of web design, as well as being a sort of collaborator that allows you to make a website that is perfect and up to your standards. 
